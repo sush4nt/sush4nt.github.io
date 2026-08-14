@@ -1,3 +1,11 @@
+---
+title: "Senior SQL: System Design & Problem-Solving Interview Guide"
+date: 2026-08-14T00:00:00+05:30
+draft: true
+tags: ["sql", "system-design", "interview-prep"]
+summary: "Reference for navigating production-grade SQL architecture decisions, based on real Amazon assessment scenarios."
+---
+
 # Senior SQL: System Design & Problem-Solving Interview Guide
 
 **Purpose:** Reference document for navigating complex, production-grade SQL architectural decisions. Based on real Amazon assessment scenarios and SQL system design principles.

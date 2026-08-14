@@ -1,3 +1,11 @@
+---
+title: "Apache Airflow — ML Orchestration Skeleton"
+date: 2026-07-19T00:00:00+05:30
+draft: true
+tags: ["airflow", "mlops", "orchestration", "interview-prep"]
+summary: "A translation layer mapping ZenML pipeline concepts onto Apache Airflow architecture, for demonstrating orchestration fluency in interviews."
+---
+
 # Apache Airflow — ML Orchestration Skeleton
 ## Interview Reference: ZenML-to-Airflow Translation
 

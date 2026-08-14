@@ -1,3 +1,11 @@
+---
+title: "AWS Data Ingestion Pipeline — Production Architecture"
+date: 2026-07-19T00:00:00+05:30
+draft: true
+tags: ["aws", "data-engineering", "iot", "interview-prep"]
+summary: "High-level walkthrough of an AWS-based IoT data ingestion pipeline for a manufacturing use case, and how the core services connect end-to-end."
+---
+
 # AWS Data Ingestion Pipeline — Production Architecture
 ## Interview Reference: High-Level AWS Services & How They Connect
 

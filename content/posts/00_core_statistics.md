@@ -1,3 +1,11 @@
+---
+title: "Core Statistical Concepts for Senior ML Scientists"
+date: 2026-07-19T00:00:00+05:30
+draft: true
+tags: ["statistics", "interview-prep", "ml-fundamentals"]
+summary: "A worked-example-driven refresher on core statistics, using a running coin-toss example to build fast, genuine intuition."
+---
+
 # Core Statistical Concepts for Senior ML Scientists
 
 **Purpose**: A crisp reference for defending statistical foundations in senior-level interviews. Built via worked examples (coin toss as running thread) rather than abstract tables — the goal is recall speed and genuine intuition, not exhaustive coverage.

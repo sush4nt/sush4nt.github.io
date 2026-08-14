@@ -1,3 +1,11 @@
+---
+title: "Pandas, NumPy, Python Tricks: Interview-Ready Reference"
+date: 2026-07-19T00:00:00+05:30
+draft: true
+tags: ["python", "pandas", "numpy", "interview-prep"]
+summary: "A running set of toy datasets and idiomatic pandas/NumPy/Python snippets for common data manipulation interview tasks."
+---
+
 # Pandas, NumPy, Python Tricks: Interview-Ready Reference
 
 ## Toy Datasets (Running Examples)

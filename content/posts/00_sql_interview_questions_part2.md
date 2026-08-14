@@ -1,3 +1,11 @@
+---
+title: "SQL Interview Questions — MySQL Solutions (Part 2)"
+date: 2026-08-14T00:00:00+05:30
+draft: true
+tags: ["sql", "interview-prep"]
+summary: "Real-world SQL interview questions from Stripe, Google, Visa, Amazon, Accenture, Facebook and more, with detailed MySQL solutions."
+---
+
 # SQL Interview Questions - MySQL Solutions
 
 A comprehensive collection of SQL interview questions with detailed explanations and MySQL solutions.

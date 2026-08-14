@@ -1,3 +1,11 @@
+---
+title: "Sampling & Audience Measurement: Ground-Up Reference"
+date: 2026-07-19T00:00:00+05:30
+draft: true
+tags: ["sampling", "statistics", "measurement", "interview-prep"]
+summary: "A ground-up look at sampling design, weighting, and universe projections — is your data a trustworthy mirror of the population?"
+---
+
 # Sampling & Audience Measurement: Ground-Up Reference
 
 **Date:** July 19, 2026

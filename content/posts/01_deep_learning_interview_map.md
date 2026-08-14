@@ -1,3 +1,11 @@
+---
+title: "Deep Learning Interview Map"
+date: 2026-08-08T00:00:00+05:30
+draft: true
+tags: ["deep-learning", "interview-prep"]
+summary: "A master navigation doc tracing why neural networks exist, through CNNs, detection/segmentation, and generative/attention/sequence models."
+---
+
 # Deep Learning Interview Map
 **Master Navigation Document | 5-min read to 3-day deep-dive**
 

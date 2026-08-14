@@ -1,3 +1,11 @@
+---
+title: "All Tree Models — v1 (Comprehensive Intuition Guide)"
+date: 2026-07-22T00:00:00+05:30
+draft: true
+tags: ["tree-models", "ml-fundamentals", "interview-prep"]
+summary: "A walk through every major tree-based model, where each section ends with the specific weakness that motivated the next algorithm."
+---
+
 # All Tree Models — v1 (Comprehensive Intuition Guide)
 
 > **How to read this document**: each section covers one algorithm and ends with "**The weakness that motivates the next model**." That sentence is the thread connecting the whole document — every algorithm below exists because of a specific, nameable failure of the one before it. If you can recite that chain in an interview, you've demonstrated the kind of systems-level understanding a senior interviewer is actually probing for (not "do you know the formula" but "do you know *why this formula exists*").

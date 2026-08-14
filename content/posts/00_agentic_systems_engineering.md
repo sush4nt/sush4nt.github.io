@@ -1,3 +1,11 @@
+---
+title: "Agentic Systems & GenAI Engineering: Production Depth"
+date: 2026-07-19T00:00:00+05:30
+draft: true
+tags: ["genai", "llm", "agents", "mlops", "interview-prep"]
+summary: "Interview-ready reference on agentic AI/GenAI engineering — framework choices (LangChain vs CrewAI vs AutoGen), multi-agent orchestration, tool-calling, RAG architecture, and production concerns."
+---
+
 # Agentic Systems & GenAI Engineering: Production Depth
 
 **Date:** July 19, 2026

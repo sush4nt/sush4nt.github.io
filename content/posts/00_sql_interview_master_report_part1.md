@@ -1,3 +1,11 @@
+---
+title: "SQL System Design & Problem-Solving Master Report (Part 1)"
+date: 2026-08-14T00:00:00+05:30
+draft: true
+tags: ["sql", "system-design", "interview-prep"]
+summary: "Senior-level SQL interview prep covering core gotchas and fundamentals, starting with NULL-handling traps."
+---
+
 # SQL System Design & Problem-Solving Master Report
 ## Senior-Level Interview Prep Guide
 

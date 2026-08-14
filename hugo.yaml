@@ -57,11 +57,11 @@ params:
 
   assets:
     disableHLJS: true
-    favicon: "favicon.svg?v=2"
-    favicon16x16: "favicon.svg?v=2"
-    favicon32x32: "favicon.svg?v=2"
-    apple_touch_icon: "favicon.svg?v=2"
-    safari_pinned_tab: "favicon.svg?v=2"
+    favicon: "favicon.svg?v=3"
+    favicon16x16: "favicon.svg?v=3"
+    favicon32x32: "favicon.svg?v=3"
+    apple_touch_icon: "favicon.svg?v=3"
+    safari_pinned_tab: "favicon.svg?v=3"
 
   fuseOpts:
     isCaseSensitive: false

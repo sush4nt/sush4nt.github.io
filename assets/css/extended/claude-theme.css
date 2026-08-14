@@ -1,0 +1,87 @@
+/* Palette based on Anthropic's published Claude design tokens */
+:root {
+    --radius: 12px;
+    --theme: rgb(245, 244, 237);       /* parchment canvas */
+    --entry: rgb(250, 249, 245);       /* ivory card surface */
+    --primary: rgb(20, 20, 19);        /* near-black warm text */
+    --secondary: rgb(107, 95, 78);     /* warm brown-gray muted text */
+    --tertiary: rgb(237, 232, 223);    /* light warm tan (pills, hover bg) */
+    --content: rgb(61, 61, 58);        /* body text */
+    --code-block-bg: rgb(48, 48, 46);
+    --code-bg: rgb(240, 238, 230);
+    --border: rgb(230, 223, 216);      /* hairline cream border */
+    --accent: rgb(201, 100, 66);       /* terracotta */
+    --accent-hover: rgb(169, 88, 62);
+    --accent-soft: rgba(201, 100, 66, 0.12);
+    color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+    --theme: rgb(20, 20, 19);
+    --entry: rgb(35, 34, 32);
+    --primary: rgb(245, 244, 237);
+    --secondary: rgb(163, 156, 140);
+    --tertiary: rgb(58, 56, 53);
+    --content: rgb(232, 230, 220);
+    --code-block-bg: rgb(15, 15, 14);
+    --code-bg: rgb(42, 41, 38);
+    --border: rgba(240, 238, 230, 0.14);
+    --accent: rgb(217, 119, 87);
+    --accent-hover: rgb(224, 139, 110);
+    --accent-soft: rgba(217, 119, 87, 0.16);
+    color-scheme: dark;
+}
+
+/* Accent used sparingly, matching Claude's restrained brand usage */
+.md-content a {
+    color: var(--accent);
+    text-decoration-color: var(--accent-soft);
+}
+
+.md-content a:hover {
+    color: var(--accent-hover);
+}
+
+.entry-hint-parent a:hover,
+.logo a:hover,
+.menu a:hover span,
+.pagination a:hover {
+    color: var(--accent);
+}
+
+.terms-tags a {
+    background: var(--accent-soft);
+    color: var(--accent-hover);
+}
+
+.terms-tags a:hover {
+    background: var(--accent);
+    color: var(--entry);
+}
+
+.post-entry {
+    box-shadow: 0 1px 2px rgba(20, 20, 19, 0.04);
+}
+
+.post-entry:hover,
+.post-entry:focus-within {
+    border-color: var(--accent-soft);
+    box-shadow: 0 4px 16px rgba(20, 20, 19, 0.06);
+}
+
+.top-link {
+    background: var(--accent);
+}
+
+.top-link svg {
+    fill: var(--entry);
+    stroke: var(--entry);
+}
+
+.top-link:hover {
+    background: var(--accent-hover);
+}
+
+::selection {
+    background: var(--accent-soft);
+}

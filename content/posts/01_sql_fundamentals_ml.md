@@ -1,7 +1,7 @@
 ---
 title: "SQL Fundamentals for Senior ML Scientists (v1)"
 date: 2026-07-19T00:00:00+05:30
-draft: true
+draft: false
 tags: ["sql", "interview-prep"]
 summary: "A reasoning-first SQL refresher for ML interviews, prioritizing why a query works over syntax memorization."
 ---

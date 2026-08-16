@@ -1,7 +1,7 @@
 ---
 title: "Information Theory — Memory Map for Tree Models"
 date: 2026-07-19T00:00:00+05:30
-draft: true
+draft: false
 tags: ["information-theory", "tree-models", "interview-prep"]
 summary: "A compact memory map connecting entropy, Gini impurity, and information gain to the specific interview questions they answer."
 ---

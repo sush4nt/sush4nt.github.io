@@ -1,7 +1,7 @@
 ---
 title: "GenAI Foundations: LLMs, Text Processing & Agentic Workflows (v1)"
 date: 2026-07-15T00:00:00+05:30
-draft: true
+draft: false
 tags: ["genai", "llm", "nlp", "interview-prep"]
 summary: "Foundational reference on LLM/transformer fundamentals, text processing, evaluation strategies, and production GenAI patterns."
 ---

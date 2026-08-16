@@ -1,7 +1,7 @@
 ---
 title: "Production OOP Patterns in ML: Interview Reference"
 date: 2026-07-19T00:00:00+05:30
-draft: true
+draft: false
 tags: ["oop", "python", "software-design", "interview-prep"]
 summary: "A tour of OOP design patterns — encapsulation, inheritance, polymorphism, composition — as applied to building production ML systems."
 ---

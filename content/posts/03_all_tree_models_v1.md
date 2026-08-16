@@ -1,7 +1,7 @@
 ---
 title: "All Tree Models — v1 (Comprehensive Intuition Guide)"
 date: 2026-07-22T00:00:00+05:30
-draft: true
+draft: false
 tags: ["tree-models", "ml-fundamentals", "interview-prep"]
 summary: "A walk through every major tree-based model, where each section ends with the specific weakness that motivated the next algorithm."
 ---

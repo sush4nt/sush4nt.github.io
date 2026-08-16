@@ -1,0 +1,37 @@
+<script>
+(function () {
+    var container = document.getElementById("posts-container");
+    var btn = document.getElementById("view-toggle-btn");
+    if (!container || !btn) return;
+
+    var STORAGE_KEY = "postsViewMode";
+
+    function applyView(mode) {
+        if (mode === "grid") {
+            container.classList.add("grid-view");
+            btn.setAttribute("data-mode", "grid");
+            btn.setAttribute("aria-label", "Switch to list view");
+            btn.setAttribute("title", "Switch to list view");
+        } else {
+            container.classList.remove("grid-view");
+            btn.setAttribute("data-mode", "list");
+            btn.setAttribute("aria-label", "Switch to grid view");
+            btn.setAttribute("title", "Switch to grid view");
+        }
+    }
+
+    var saved = "list";
+    try {
+        saved = localStorage.getItem(STORAGE_KEY) || "list";
+    } catch (e) {}
+    applyView(saved);
+
+    btn.addEventListener("click", function () {
+        var next = container.classList.contains("grid-view") ? "list" : "grid";
+        try {
+            localStorage.setItem(STORAGE_KEY, next);
+        } catch (e) {}
+        applyView(next);
+    });
+})();
+</script>
